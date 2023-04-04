@@ -1,0 +1,40 @@
+"","Player","Season","Date","Day","Comp","Round","Venue","Result","Squad","Opponent","Start","Pos","Min","Gls","Ast","PK","PKatt","Sh","SoT","CrdY","CrdR","Touches","Tkl","Int","Blocks","xG_Expected","npxG_Expected","xAG_Expected","SCA_SCA","GCA_SCA","Cmp_Passes","Att_Passes","Cmp_percent_Passes","Prog_Passes","Succ_Dribbles","Att_Dribbles"
+"1","Erling Haaland","2021-2022","2021-08-07","Sat","DFB-Pokal","Round of 64","Away","W 3–0","Dortmund","Wehen","Y","FW",90,3,0,1,1,9,7,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Erling Haaland","2021-2022","2021-08-14","Sat","Bundesliga","Matchweek 1","Home","W 5–2","Dortmund","Eint Frankfurt","Y","FW",90,2,2,0,0,6,3,0,0,43,0,0,0,1.6,1.6,0.9,9,5,22,31,71,6,3,4
+"3","Erling Haaland","2021-2022","2021-08-17","Tue","DFL-Supercup","DFL-Supercup","Home","L 1–3","Dortmund","Bayern Munich","Y","FW",90,0,0,0,0,2,1,0,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Erling Haaland","2021-2022","2021-08-21","Sat","Bundesliga","Matchweek 2","Away","L 1–2","Dortmund","Freiburg","Y","FW",90,0,0,0,0,6,2,0,0,31,0,0,0,1,1,0.1,2,0,11,18,61.1,2,0,0
+"5","Erling Haaland","2021-2022","2021-08-27","Fri","Bundesliga","Matchweek 3","Home","W 3–2","Dortmund","Hoffenheim","Y","FW",90,1,0,0,0,6,3,0,0,36,0,0,1,1,1,0.3,3,0,17,25,68,1,1,1
+"6","Erling Haaland","2021-2022","2021-09-01","Wed","WCQ","First round","Home","D 1–1","Norway","Netherlands","Y","FW",90,1,0,0,0,3,2,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Erling Haaland","2021-2022","2021-09-04","Sat","WCQ","First round","Away","W 2–0","Norway","Latvia","Y","FW",87,1,0,1,1,9,5,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Erling Haaland","2021-2022","2021-09-07","Tue","WCQ","First round","Home","W 5–1","Norway","Gibraltar","Y","FW",90,3,0,0,0,9,4,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Erling Haaland","2021-2022","2021-09-11","Sat","Bundesliga","Matchweek 4","Away","W 4–3","Dortmund","Leverkusen","Y","FW",90,2,1,1,1,3,2,1,0,39,0,1,0,1.2,0.4,0.6,3,1,23,31,74.2,2,2,2
+"10","Erling Haaland","2021-2022","2021-09-15","Wed","Champions Lg","Group stage","Away","W 2–1","Dortmund","Beşiktaş","Y","FW",85,1,0,0,0,4,2,0,0,36,0,0,0,1.4,1.4,0.5,2,0,13,19,68.4,2,0,4
+"11","Erling Haaland","2021-2022","2021-09-19","Sun","Bundesliga","Matchweek 5","Home","W 4–2","Dortmund","Union Berlin","Y","FW",90,2,0,0,0,4,2,0,0,35,0,0,1,0.4,0.4,0,1,0,13,21,61.9,0,0,0
+"12","Erling Haaland","2021-2022","2021-10-16","Sat","Bundesliga","Matchweek 8","Home","W 3–1","Dortmund","Mainz 05","Y","FW",90,2,0,1,1,3,2,0,0,33,0,0,1,1.2,0.4,0.6,4,1,20,25,80,1,0,1
+"13","Erling Haaland","2021-2022","2021-10-19","Tue","Champions Lg","Group stage","Away","L 0–4","Dortmund","Ajax","Y","FW",90,0,0,0,0,4,3,0,0,42,0,0,0,0.9,0.9,0,2,0,15,29,51.7,2,2,5
+"14","Erling Haaland","2021-2022","2021-11-27","Sat","Bundesliga","Matchweek 13","Away","W 3–1","Dortmund","Wolfsburg","N","FW",18,1,0,0,0,2,2,0,0,9,0,0,0,0.6,0.6,0,0,0,5,5,100,0,0,0
+"15","Erling Haaland","2021-2022","2021-12-04","Sat","Bundesliga","Matchweek 14","Home","L 2–3","Dortmund","Bayern Munich","Y","FW",81,1,0,0,0,3,1,0,0,26,0,0,1,0.4,0.4,0,2,0,10,18,55.6,2,0,0
+"16","Erling Haaland","2021-2022","2021-12-07","Tue","Champions Lg","Group stage","Home","W 5–0","Dortmund","Beşiktaş","N","FW",28,2,0,0,0,4,2,0,0,10,0,0,1,1,1,0,1,0,1,4,25,0,0,1
+"17","Erling Haaland","2021-2022","2021-12-11","Sat","Bundesliga","Matchweek 15","Away","D 1–1","Dortmund","Bochum","Y","FW",90,0,1,0,0,4,1,0,0,29,0,0,0,0.6,0.6,0.6,3,1,15,22,68.2,1,1,1
+"18","Erling Haaland","2021-2022","2021-12-15","Wed","Bundesliga","Matchweek 16","Home","W 3–0","Dortmund","Greuther Fürth","Y","FW",82,2,0,1,1,4,1,0,0,30,0,0,0,1.1,0.3,0,4,1,11,19,57.9,3,2,3
+"19","Erling Haaland","2021-2022","2021-12-18","Sat","Bundesliga","Matchweek 17","Away","L 2–3","Dortmund","Hertha BSC","Y","FW",90,0,0,0,0,1,0,0,0,33,0,0,1,0.1,0.1,0,3,0,14,21,66.7,0,0,0
+"20","Erling Haaland","2021-2022","2022-01-08","Sat","Bundesliga","Matchweek 18","Away","W 3–2","Dortmund","Eint Frankfurt","Y","FW",90,0,1,0,0,6,2,1,0,42,0,0,1,0.6,0.6,0.1,3,1,15,24,62.5,1,0,2
+"21","Erling Haaland","2021-2022","2022-01-14","Fri","Bundesliga","Matchweek 19","Home","W 5–1","Dortmund","Freiburg","Y","FW",90,2,0,0,0,5,2,1,0,32,0,0,0,1,1,0.1,4,1,14,21,66.7,2,1,2
+"22","Erling Haaland","2021-2022","2022-01-18","Tue","DFB-Pokal","Round of 16","Away","L 1–2","Dortmund","St. Pauli","Y","FW",90,1,0,1,1,3,2,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","Erling Haaland","2021-2022","2022-01-22","Sat","Bundesliga","Matchweek 20","Away","W 3–2","Dortmund","Hoffenheim","Y","FW",62,1,0,0,0,2,1,0,0,26,0,0,1,1,1,0,1,1,11,16,68.8,0,0,1
+"24","Erling Haaland","2021-2022","2022-03-13","Sun","Bundesliga","Matchweek 26","Home","W 1–0","Dortmund","Arminia","N","FW",28,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0.3,1,0,7,8,87.5,0,0,0
+"25","Erling Haaland","2021-2022","2022-03-16","Wed","Bundesliga","Matchweek 25","Away","W 1–0","Dortmund","Mainz 05","N","FW",34,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.2,1,0,4,6,66.7,0,0,0
+"26","Erling Haaland","2021-2022","2022-03-20","Sun","Bundesliga","Matchweek 27","Away","D 1–1","Dortmund","Köln","Y","FW",86,0,0,0,0,2,1,0,0,21,0,0,0,0.7,0.7,0,0,0,9,12,75,2,0,0
+"27","Erling Haaland","2021-2022","2022-03-25","Fri","Friendlies (M)","Friendlies (M)","Home","W 2–0","Norway","Slovakia","Y","FW",80,1,0,0,0,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Erling Haaland","2021-2022","2022-03-29","Tue","Friendlies (M)","Friendlies (M)","Home","W 9–0","Norway","Armenia","Y","FW",45,2,1,0,0,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Erling Haaland","2021-2022","2022-04-02","Sat","Bundesliga","Matchweek 28","Home","L 1–4","Dortmund","B Leipzig","Y","FW",90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0,1,0,15,23,65.2,2,0,0
+"30","Erling Haaland","2021-2022","2022-04-08","Fri","Bundesliga","Matchweek 29","Away","W 2–0","Dortmund","Stuttgart","Y","FW",90,0,1,0,0,1,0,0,0,31,1,0,1,0.3,0.3,0.9,1,1,18,24,75,1,0,1
+"31","Erling Haaland","2021-2022","2022-04-16","Sat","Bundesliga","Matchweek 30","Home","W 6–1","Dortmund","Wolfsburg","Y","FW",90,2,1,0,0,3,3,0,0,35,0,0,0,1.4,1.4,0.2,4,3,16,22,72.7,1,3,4
+"32","Erling Haaland","2021-2022","2022-04-23","Sat","Bundesliga","Matchweek 31","Away","L 1–3","Dortmund","Bayern Munich","Y","FW",86,0,0,0,0,3,0,0,0,33,0,0,0,0.2,0.2,0.2,2,0,18,27,66.7,2,0,0
+"33","Erling Haaland","2021-2022","2022-04-30","Sat","Bundesliga","Matchweek 32","Home","L 3–4","Dortmund","Bochum","Y","FW",90,3,0,2,2,3,2,0,0,33,0,0,0,2.2,0.6,0.8,4,0,20,23,87,1,0,1
+"34","Erling Haaland","2021-2022","2022-05-07","Sat","Bundesliga","Matchweek 33","Away","W 3–1","Dortmund","Greuther Fürth","Y","FW",85,0,0,0,0,3,0,0,0,24,1,0,0,0.5,0.5,0.1,4,0,13,20,65,1,0,0
+"35","Erling Haaland","2021-2022","2022-05-14","Sat","Bundesliga","Matchweek 34","Home","W 2–1","Dortmund","Hertha BSC","Y","FW",89,1,0,1,1,2,0,0,0,25,0,0,0,1,0.2,0,1,0,10,14,71.4,1,0,1
+"36","Erling Haaland","2021-2022","2022-06-02","Thu","UEFA Nations League","League B","Away","W 1–0","Norway","Serbia","Y","FW",66,1,0,0,0,0,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Erling Haaland","2021-2022","2022-06-05","Sun","UEFA Nations League","League B","Away","W 2–1","Norway","Sweden","Y","FW",74,2,0,1,1,0,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Erling Haaland","2021-2022","2022-06-09","Thu","UEFA Nations League","League B","Home","D 0–0","Norway","Slovenia","Y","FW",90,0,0,0,0,0,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Erling Haaland","2021-2022","2022-06-12","Sun","UEFA Nations League","League B","Home","W 3–2","Norway","Sweden","Y","FW",88,2,1,1,1,0,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
